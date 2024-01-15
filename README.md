@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/keionsmith/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keionsmith/" height="30" width="40" />
   </a>
-  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+  <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
